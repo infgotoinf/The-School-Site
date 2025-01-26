@@ -1,3 +1,3 @@
 function clicked() {
-    document.getElementById('Text').innerHTML = "UwU!";
+    document.getElementById('Text') = "UwU!";
   };
