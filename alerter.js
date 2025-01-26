@@ -1,5 +1,3 @@
 function clicked() {
-    document.getElementById('Text').innerHTML = someData;
-    console.log(someData)
+    document.getElementById('Text').innerHTML = "UwU!";
   };
-
